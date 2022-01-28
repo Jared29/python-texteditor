@@ -1,5 +1,5 @@
 # python-texteditor
-A simple text editor made with Python in order to gain some familiarity with tkinter
+A simple text editor made with Python in order to gain familiarity with tkinter
 
 Functionality:
   - Write text
